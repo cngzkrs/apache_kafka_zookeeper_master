@@ -1,6 +1,7 @@
 # apache-kafka-master
 
-Apache Kafka with Zookeeper implementation code project 
+Apache Kafka with Zookeeper implementation code project.
+This codes are implemented from a learning video series of KablosuzKedi Youtube channel. 
 
  
 ## Getting Started
