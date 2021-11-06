@@ -2,8 +2,9 @@
 
 Apache Kafka with Zookeeper implementation code project
 
-
-![Alt text](https://github.com/cngzkrs/apache_kafka_zookeeper_master/img/kafka.png") 
+Apache Kafka                 
+:-------------------------: 
+![Alt text](https://github.com/cngzkrs/apache_kafka_zookeeper_master/img/kafka.png "Optional Title")  
 
  
 ## Getting Started
