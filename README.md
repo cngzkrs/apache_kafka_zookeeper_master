@@ -1,10 +1,6 @@
 # apache-kafka-master
 
-Apache Kafka with Zookeeper implementation code project
-
-Apache Kafka                 
-:-------------------------: 
-![Alt text](https://github.com/cngzkrs/apache_kafka_zookeeper_master/img/kafka.png "Optional Title")  
+Apache Kafka with Zookeeper implementation code project 
 
  
 ## Getting Started
